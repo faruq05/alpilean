@@ -68,7 +68,7 @@ a {
     color: var(--cs-title);
 }
 
-.yellowunder {
+.highlight {
     background-color: var(--cs-title);
 }
 
@@ -155,7 +155,7 @@ a {
 /* hero ends */
 
 /* about starts */
-.about_title{
+.about_title {
     padding-right: 20px;
 }
 
@@ -185,37 +185,67 @@ a {
     font-weight: 600;
 }
 
-.referrence h4{
+.referrence h4 {
     color: #7a7a7a;
     margin-bottom: 0;
 }
 
-.referrence ul li a{
+.referrence ul li a {
     color: #7a7a7a;
     transition: .2s all ease-in-out, .2s all ease-in-out;
 }
 
-.referrence ul li a:hover{
+.referrence ul li a:hover {
     padding-left: 3px;
 }
+
 /* about ends */
 
 /* create starts */
-.create{
-    background-image: url(../images/mountain-2.jpg);
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;
+.create {
+    background-color: #097c9d42;
+    overflow: hidden;
 }
 
-.create_content h3{
-    color: var(--cs-white);
+.create_content h3 {
+    color: var(--cs-black);
 }
 
-.create_content p{
-    color: var(--cs-white);
+.create_content p {
+    color: var(--cs-black);
 }
 
-.create_content img{
+.create_content img {
     width: 300px;
+}
+
+.create_display {
+    position: relative;
+}
+
+.create_display img {
+    position: relative;
+}
+
+.rotatefx {
+   
+}
+
+.rotatefx img {
+    position: absolute;
+    top: -60px;
+    left: 0;
+    z-index: 0;
+    animation: rotation 30s linear infinite;
+    width: 100%;
+}
+
+@keyframes rotation {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
 }
