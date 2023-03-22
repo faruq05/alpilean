@@ -1,0 +1,464 @@
+@media(max-width:991px) {
+    h1 {
+        font-size: 50px;
+    }
+
+    h2 {
+        font-size: 30px;
+    }
+
+    p {
+        font-size: 20px;
+    }
+
+    .c-60 {
+        padding: 40px 15px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+
+        padding: 10px 0px;
+    }
+
+    .navbar-brand {
+        width: 155px;
+    }
+
+    .hero {
+        padding: 40px 15px 60px 15px;
+    }
+
+    .hero_content p {
+        width: 100%;
+        font-size: 24px;
+    }
+
+    .hero_image {
+        width: 60%;
+        padding: 30px 0px;
+    }
+
+    .fda {
+        width: 50%;
+    }
+
+    .hero::before {
+        bottom: -2%;
+    }
+
+    .abmg {
+        width: 100%;
+    }
+
+    .abcontent {
+        width: 100%;
+    }
+
+    .about_title {
+        margin-top: 30px;
+        text-align: left;
+        padding: 0;
+    }
+
+
+
+    .research {
+        padding: 15px;
+    }
+
+    .research p {
+        font-size: 16px;
+        font-weight: 600;
+        margin: 0;
+    }
+
+    .referrence_top {
+        margin-top: 20px;
+    }
+
+    .about_image {
+        margin-top: 45px;
+        width: 70%;
+        margin: auto;
+        padding-top: 45px;
+    }
+
+    .ing_title p {
+        width: 100%;
+    }
+
+    .ing_cardcenter {
+        width: 45%;
+        margin: 0;
+        margin-bottom: 30px;
+        margin: auto;
+    }
+
+    .inglist {
+        text-align: left;
+    }
+
+    .ingred_card {
+        width: 50%;
+        margin-top: 30px;
+    }
+
+    .ingredimag {
+        display: none;
+    }
+
+    .ingimage {}
+
+    .fcard {
+
+        padding: 10px;
+        height: 125px;
+    }
+
+    .delivery {
+        margin-bottom: 30px;
+    }
+
+    .bonus::before {
+
+        bottom: -20px;
+    }
+
+    .client_box {
+        padding: 20px;
+    }
+
+    .client_rev {
+        display: block;
+    }
+
+    .cl_result {
+        /* display: block; */
+    }
+
+    .clr {
+        margin: auto;
+    }
+
+    .price_box {
+        padding: 20px;
+        height: auto;
+        margin-bottom: 20px;
+    }
+
+    .price_title h2 {
+        font-size: 40px;
+    }
+
+    .price_box a img {
+        width: 200px;
+    }
+
+    .faq_ques {
+        width: 100%;
+    }
+
+    .accord_title {
+        font-size: 16px;
+    }
+
+    .ref_img {}
+
+
+}
+
+@media(max-width:767px) {
+    h1 {
+        font-size: 36px;
+    }
+
+    h2 {
+        font-size: 30px;
+    }
+
+    p {
+        font-size: 18px;
+    }
+
+    .c-60 {
+        padding: 30px 15px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+
+        padding: 10px 0px;
+    }
+
+    .navbar-brand {
+        width: 155px;
+    }
+
+    .hero_content p {
+        width: 100%;
+        font-size: 20px;
+    }
+
+    .hero_image {
+        width: 100%;
+        padding: 30px 0px;
+    }
+
+    .fda {
+        width: 100%;
+    }
+
+    .hero::before {
+        bottom: -14%;
+    }
+
+    .about_title {
+        margin-top: 30px;
+        text-align: center;
+        padding: 0;
+    }
+
+    .research {
+        padding: 15px;
+    }
+
+    .research p {
+        font-size: 16px;
+        font-weight: 600;
+        margin: 0;
+    }
+
+    .referrence_top {
+        margin-top: 20px;
+    }
+
+    .about_image {
+        margin-top: 45px;
+        width: 70%;
+        margin: auto;
+        padding-top: 45px;
+    }
+
+    .ing_title p {
+        width: 100%;
+    }
+
+    .ing_cardcenter {
+        width: 100%;
+        margin: 0;
+        margin-bottom: 30px;
+    }
+
+    .inglist {
+        text-align: left;
+    }
+
+    .ingimage {
+        display: none;
+    }
+
+    .delivery {
+        margin-bottom: 30px;
+    }
+
+    .bonus::before {
+
+        bottom: -20px;
+    }
+
+    .client_box {
+        padding: 20px;
+    }
+
+    .client_rev {
+        display: block;
+    }
+
+    .cl_result {
+        /* display: block; */
+    }
+
+    .clr {
+        margin: auto;
+    }
+
+    .price_box {
+        padding: 20px;
+        height: auto;
+        margin-bottom: 20px;
+    }
+
+    .price_title h2 {
+        font-size: 40px;
+    }
+
+    .price_box a img {
+        width: 200px;
+    }
+
+    .faq_ques {
+        width: 100%;
+    }
+
+    .accord_title {
+        font-size: 16px;
+    }
+
+    .ref_img {}
+
+
+}
+
+@media(max-width:575px) {
+    h1 {
+        font-size: 36px;
+    }
+
+    h2 {
+        font-size: 30px;
+    }
+
+    p {
+        font-size: 18px;
+    }
+
+    .c-60 {
+        padding: 30px 15px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+
+        padding: 10px 0px;
+    }
+
+    .navbar-brand {
+        width: 155px;
+    }
+
+    .hero_content p {
+        width: 100%;
+        font-size: 20px;
+    }
+
+    .hero_image {
+        width: 100%;
+        padding: 30px 0px;
+    }
+
+    .fda {
+        width: 100%;
+    }
+
+    .hero::before {
+        bottom: -6%;
+    }
+
+    .about_title {
+        margin-top: 30px;
+        text-align: center;
+        padding: 0;
+    }
+
+    .research {
+        padding: 15px;
+    }
+
+    .research p {
+        font-size: 16px;
+        font-weight: 600;
+        margin: 0;
+    }
+
+    .referrence_top {
+        margin-top: 20px;
+    }
+
+    .about_image {
+        margin-top: 30px;
+        width: 60%;
+        margin: auto;
+        padding-top: 30px;
+    }
+
+    .ing_title p {
+        width: 100%;
+    }
+
+    .ing_cardcenter {
+        width: 100%;
+        margin: 0;
+        margin-bottom: 30px;
+    }
+
+    .inglist {
+        text-align: left;
+    }
+
+    .ingimage {
+        display: none;
+    }
+
+    .delivery {
+        margin-bottom: 30px;
+    }
+
+    .bonus::before {
+
+        bottom: -20px;
+    }
+
+    .client_box {
+        padding: 20px;
+    }
+
+    .client_rev {
+        display: block;
+    }
+
+    .cl_result {
+        /* display: block; */
+    }
+
+    .clr {
+        margin: auto;
+    }
+
+    .price_box {
+        padding: 20px;
+        height: auto;
+        margin-bottom: 20px;
+    }
+
+    .price_title h2 {
+        font-size: 40px;
+    }
+
+    .price_box a img {
+        width: 200px;
+    }
+
+    .faq_ques {
+        width: 100%;
+    }
+
+    .accord_title {
+        font-size: 16px;
+    }
+
+    .ref_img {}
+
+
+}
+
+@media(max-width:425px) {
+    .about_image {
+        margin-top: 30px;
+        width: 100%;
+        margin: auto;
+        padding-top: 30px;
+    }
+
+    .hero::before {
+        display: none;
+    }
+
+}
