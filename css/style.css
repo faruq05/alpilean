@@ -198,3 +198,24 @@ a {
 .referrence ul li a:hover{
     padding-left: 3px;
 }
+/* about ends */
+
+/* create starts */
+.create{
+    background-image: url(../images/mountain-2.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.create_content h3{
+    color: var(--cs-white);
+}
+
+.create_content p{
+    color: var(--cs-white);
+}
+
+.create_content img{
+    width: 300px;
+}
