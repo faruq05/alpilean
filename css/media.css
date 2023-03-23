@@ -248,7 +248,7 @@
     .ing_cardcenter {
         width: 100%;
         margin: 0;
-        margin-bottom: 30px;
+        /* margin-bottom: 30px; */
     }
 
     .inglist {
@@ -259,7 +259,7 @@
         display: none;
     }
 
-    .ingred_card{
+    .ingred_card {
         width: 100%;
     }
 
@@ -395,7 +395,7 @@
     .ing_cardcenter {
         width: 100%;
         margin: 0;
-        margin-bottom: 30px;
+        /* margin-bottom: 30px; */
     }
 
     .inglist {
