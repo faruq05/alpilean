@@ -259,6 +259,10 @@
         display: none;
     }
 
+    .ingred_card{
+        width: 100%;
+    }
+
     .delivery {
         margin-bottom: 30px;
     }
