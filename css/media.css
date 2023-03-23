@@ -282,6 +282,7 @@
 
     .cl_result {
         /* display: block; */
+        margin-bottom: 25px;
     }
 
     .clr {
