@@ -55,9 +55,10 @@ h2 {
 }
 
 h4 {
-    color: #a4b1ff;
+    color: var(--cs-green);
     font-size: 16px;
     margin-top: 16px;
+    font-weight: 600;
 }
 
 li {
@@ -159,7 +160,7 @@ a {
 
 /* hero starts */
 .hero {
-    background: url(../images/mountain.jpg);
+    background: url(../images/iStock-641590780.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -178,7 +179,6 @@ a {
     background-size: cover;
     pointer-events: none;
 }
-
 
 .hero_content p {
     color: var(--cs-white);
@@ -211,7 +211,7 @@ a {
     object-fit: cover;
     object-position: top; */
     border-radius: 15px;
-    box-shadow: 0px 0px 4px 1px #00000059;
+    box-shadow: 0px 0px 6px 2px #00000024;
 }
 
 .research {
@@ -441,7 +441,7 @@ a {
 
 /* bonus starts */
 .bonus {
-    background: url(../images/mountain-2.jpg);
+    background: url(../images/iStock-641590780.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-repeat: no-repeat;
@@ -491,9 +491,12 @@ a {
 }
 
 .bonus_content h5 {
-    color: var(--cs-white);
-    font-size: 18px;
+    color: var(--cs-title);
+    font-size: 20px;
     margin: 0;
+    background-color: #00000061;
+    padding: 10px 20px;
+    border-radius: 10px;
 }
 
 .delivery {
@@ -766,7 +769,7 @@ a {
 /* faq starts */
 .faq {
     position: relative;
-    background: url(../images/mountain-2.jpg);
+    background: url(../images/iStock-641590780.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
